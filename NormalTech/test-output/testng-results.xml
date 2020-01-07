@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35921" started-at="2019-12-26T12:55:37Z" finished-at="2019-12-26T12:56:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35921" started-at="2019-12-26T12:55:37Z" finished-at="2019-12-26T12:56:13Z">
+      <class name="Remaining_scripts_dynamic.Campaign_allcation2">
+        <test-method status="PASS" signature="open([Ljava.lang.String;)[pri:0, instance:Remaining_scripts_dynamic.Campaign_allcation2@704a52ec]" name="open" duration-ms="6333" started-at="2019-12-26T12:55:37Z" data-provider="wordpress" finished-at="2019-12-26T12:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3d6300e8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="open([Ljava.lang.String;)[pri:0, instance:Remaining_scripts_dynamic.Campaign_allcation2@704a52ec]" name="open" duration-ms="23532" started-at="2019-12-26T12:55:44Z" data-provider="wordpress" finished-at="2019-12-26T12:56:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b822fcc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="open([Ljava.lang.String;)[pri:0, instance:Remaining_scripts_dynamic.Campaign_allcation2@704a52ec]" name="open" duration-ms="5453" started-at="2019-12-26T12:56:07Z" data-provider="wordpress" finished-at="2019-12-26T12:56:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@24a1c17f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- Remaining_scripts_dynamic.Campaign_allcation2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
